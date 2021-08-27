@@ -1,4 +1,4 @@
-# Deformable-convolution-network(DCN) for head-and-neck tumor segmentation with PET/CT and MRI
+# Deformable Convolution Network(DCN) for head-and-neck tumor segmentation with PET/CT and MRI
 3D deformable convolution network(DCN) for head and neck tumor segmentation
 
 Code for ESTRO21 hight poster : 
