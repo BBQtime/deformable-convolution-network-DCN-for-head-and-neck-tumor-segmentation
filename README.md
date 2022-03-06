@@ -9,3 +9,17 @@ The experiments was conducted using 'nnUNet' as a training pipeline and baseline
 To train, please run trainer 'nnUNetTrainerV2_200_DCN'. The image modality order should be: CT, PET, T1 and T2. 
 
 For guides of nnUNet please check https://github.com/MIC-DKFZ/nnUNet.
+
+Cite:
+Ren, J., et al. "PH-0654 End-to-end head & neck tumor auto-segmentation using CT/PET and MRI without deformable registration." Radiotherapy and Oncology 161 (2021): S523-S525.
+```
+@article{ren2021ph,
+  title={PH-0654 End-to-end head \& neck tumor auto-segmentation using CT/PET and MRI without deformable registration},
+  author={Ren, J and Nijkamp, JA and Eriksen, JG and Korreman, SS},
+  journal={Radiotherapy and Oncology},
+  volume={161},
+  pages={S523--S525},
+  year={2021},
+  publisher={Elsevier}
+}
+```
