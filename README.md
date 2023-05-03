@@ -10,7 +10,7 @@ To train, please run trainer 'nnUNetTrainerV2_200_DCN'.
 
 The image modality order should be: CT, PET, T1 and T2. The first two input channels will go through a normal convolution block while the last two channels(T1 and T2) will go to a deformable convolution block. At the end of the first block of UNet the feature maps will be concatenated. 
 
-For guides of nnUNet please check https://github.com/MIC-DKFZ/nnUNet.
+For guides of nnUNet please check https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1.
 
 Cite:
 Ren, J., et al. "PH-0654 End-to-end head & neck tumor auto-segmentation using CT/PET and MRI without deformable registration." Radiotherapy and Oncology 161 (2021): S523-S525.
