@@ -3,7 +3,11 @@
 
 Code for ESTRO21 hight poster : 
 ```End-to-end head & neck tumor auto-segmentation using CT/PET and MRI without deformable registration```
-![dcn](dcn.png)
+
+<img src="dcn.png"  width="60%">
+
+
+
 The experiments was conducted using 'nnUNet' as a training pipeline and baseline. Please install nnUNet first and copy the DCN codes from this repo to your nnUNet folder.
 
 To train, please run trainer 'nnUNetTrainerV2_200_DCN'. 
